@@ -2,7 +2,7 @@
 
 ## Overview
 
-This sample demonstrates how to display and customize tooltips in the Syncfusion Blazor Chart component. The application shows how tooltip information can be presented when users interact with chart data points and illustrates multiple customization approaches for improving the tooltip experience.
+This sample demonstrates how to display and customize tooltips in the Syncfusion [Blazor Chart](https://www.syncfusion.com/blazor-components/blazor-charts) component. The application shows how tooltip information can be presented when users interact with chart data points and illustrates multiple customization approaches for improving the tooltip experience.
 
 The sample demonstrates tooltip content formatting using HTML, custom tooltip templates, and visual styling options. It serves as a practical reference for developers who want to provide richer contextual information within Syncfusion Blazor Charts.
 
